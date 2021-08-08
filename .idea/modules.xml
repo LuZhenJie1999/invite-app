@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/my-react-ts-app.iml" filepath="$PROJECT_DIR$/.idea/my-react-ts-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/invite-app.iml" filepath="$PROJECT_DIR$/.idea/invite-app.iml" />
     </modules>
   </component>
 </project>
