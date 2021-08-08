@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+
+.content {
+    height: 100%;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slogan {
+    font-size: 48px;
+    font-family: cursive;
+    color: dimgray;
+    font-weight: 600;
+}
+
+.subTitle {
+    margin: 24px 0;
+    font-size: 14px;
+    font-family: cursive;
+    color: dimgray;
+}
